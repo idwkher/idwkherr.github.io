@@ -8,6 +8,11 @@ body {
   margin: 30%px;
   background-color: #F7F3DE;
   background-image: url("page-bg.gif");
+    background-image: url("page-bg.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
 }
 
 header h1 {
