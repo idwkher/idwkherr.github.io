@@ -1,3 +1,4 @@
+
 @charset "utf-8";
 /* CSS Document */
 
@@ -8,15 +9,17 @@ body {
   margin: 30px;
   background-color: #F7F3DE;
   background-image: url("page-bg.gif");
+  background-repeat: no-repeat;
 }
 
 header h1 {
   font-size: 350%;
-  color: #7C1A00;
+  color: #7c1a00;
   padding: 40px;
   left-padding: 120px;
   background-image: url("header-image-1.gif");
- background-position: top left;
+  background-position: top left;
+  background-repeat: no-repeat;
 }
 
 #container {
